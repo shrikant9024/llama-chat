@@ -1,0 +1,5 @@
+#ignore server model files
+models/
+
+#ignore env
+../env
